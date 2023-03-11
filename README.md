@@ -4,10 +4,7 @@
 ## Built with 
 
 - [React JS](https://reactjs.org/)
-- [Node JS](https://nodejs.org/) 
-- [Express JS](https://expressjs.com/)
-- [Mongo DB](https://www.mongodb.com/)
-- [Bootstrap](http://getbootstrap.com/)
+- [Material UI](https://v4.mui.com/) 
 
 
 # Getting Started with Create React App
